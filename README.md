@@ -1,2 +1,2 @@
 # rsschool-cv
-Markdown &amp; Git
+https://DidiGain.github.io/rsschool-cv/cv

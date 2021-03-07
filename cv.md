@@ -20,3 +20,4 @@ My previous professional experience was in finance. </br>
 
 ## Foreign languages
 * English - B2+
+* German - A2

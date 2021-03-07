@@ -18,6 +18,9 @@ My previous professional experience was in finance. </br>
 ## Code example
 [Hexlet JS Project - level 1](https://github.com/DidiGain/frontend-project-lvl1)
 
+## Experience 
+[Hexlet account](https://ru.hexlet.io/u/didigain)
+
 ## Foreign languages
 * English - B2+
 * German - A2

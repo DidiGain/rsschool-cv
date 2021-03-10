@@ -71,3 +71,8 @@ ul {
 li {
   margin: 0 20px;
 }
+
+.footer-link {
+  display: block;
+  text-align: center;
+}
